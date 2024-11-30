@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Alura Destroyer
-// @namespace    https://cursos.alura.com.br/
-// @version      2024-09-23
-// @description  eu to cansado jefe Ã© mt coisakkkk
-// @author       marcos10pc
+// EDUH       Alura Destroyer
+// GARENA FREE FIRE   https://cursos.alura.com.br/
+// 2.0      2024-09-23
+// Jogo  online eu to cansado jefe Ã© mt coisakkkk
+// eduzin       marcos10pc
 // @match        https://cursos.alura.com.br/course/*/task/*
 // @icon         https://i.imgur.com/gP1LZq9.png
 // @grant        none
